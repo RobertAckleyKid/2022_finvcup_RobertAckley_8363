@@ -32,7 +32,6 @@ python inference_mini_batch.py --model sage_neighsampler --device 0
 ```
 
 ## Results:
-在以上的依赖环境中，baseline中几个模型效果如下：
 
 | Methods   | Valid AUC  | Test AUC  |
 |  :----  |  ---- | ---- |
